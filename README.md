@@ -6,4 +6,4 @@ I am either SK or MS. But in both directions my anchor does not change.
 
 ## Repository contents for submission
 * Logo.png
-* final_infographic_40862208.pdf
+* Infographic_with_link_40862208.pdf
